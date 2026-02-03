@@ -1,6 +1,3 @@
-Here's the **package.json** file again - copy this exact content:
-
-```json
 {
   "name": "resume-refine",
   "version": "1.0.0",
